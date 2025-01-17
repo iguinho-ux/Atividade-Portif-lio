@@ -40,7 +40,7 @@ h1 {
 }
 
 .hero img, .villain img {
-    max-width: 250px;
+    max-width: 350px;
     border-radius: 8px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
@@ -53,4 +53,9 @@ h1 {
 .hero {
     background-color: #e6f7ff; /* Heróis com fundo azul claro */
     border: 1px solid #5731ff;
+}
+
+img{
+   width: 450px; ;
+   height: 400px; 
 }
